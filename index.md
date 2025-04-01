@@ -86,7 +86,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">Registration</h2>
 
-<h4>Limited seats are available and register now at:</h4> <a href="https://forms.gle/LYSG7GgNepb98V4G9">https://forms.gle/LYSG7GgNepb98V4G9</a>
+<h4>Limited seats are available and register now at: <a href="https://forms.gle/LYSG7GgNepb98V4G9">https://forms.gle/LYSG7GgNepb98V4G9</a> </h4> 
 
 <h2 id="general">General Information</h2>
 
