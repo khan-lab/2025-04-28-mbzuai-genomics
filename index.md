@@ -84,12 +84,12 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
-<p> <b>
-Welcome to the first Data Carpentry Genomics Workshop at MBZUAI, organized by the <a href="https://khanlab.bio/">Computational Biology and Cancer Regulatory Genomics (CBCRG)</a> Lab, Computational Biology Department at MBZUAI, in collaboration with the <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/nyuad-cgsb.html">Center for Genomics and Systems Biology (CGSB)</a>, NYU Abu Dhabi.
+<p>
+Welcome to the <b>first Data Carpentry Genomics Workshop </b>at  <b>MBZUAI</b>, organized by the  <b><a href="https://khanlab.bio/">Computational Biology and Cancer Regulatory Genomics (CBCRG)</a> </b> Lab,  <b>Computational Biology Department at MBZUAI</b>, in collaboration with the  <b><a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/nyuad-cgsb.html">Center for Genomics and Systems Biology (CGSB)</a>, NYU Abu Dhabi</b>.
 
 
-This interactive hands-on workshop aims to build regional capacity in genomics and computational biology, empowering participants with foundational genomics data science skills and highlighting MBZUAI's commitment to advancing precision medicine and <a href="https://mbzuai.ac.ae/institute-of-digital-public-health"> digital public health</a> in the UAE and beyond.
-</b></p>
+This  <b>interactive hands-on workshop </b> aims to build  <b>regional capacity </b> in  <b>genomics </b> and  <b>computational biology </b>, empowering participants with foundational  <b>genomics data science skills</b> and highlighting MBZUAI's commitment to  <b>advancing precision medicine </b> and <a href="https://mbzuai.ac.ae/institute-of-digital-public-health"><b>digital public health</b></a> in the  <b>UAE and beyond</b>.
+</p>
 
 <h2 id="general">Registration</h2>
 
